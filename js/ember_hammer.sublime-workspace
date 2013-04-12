@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"menu",
+				"menu-btn"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"swipe",
+				"swipeleft"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"angula",
+				"angularControllerMain"
+			],
+			[
+				"angul",
+				"angularApp"
+			],
+			[
+				"angular",
+				"angular"
+			],
+			[
+				"google",
+				"GoogleMap"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"emm",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"e",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"emme",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"New File From Scope"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/js/app.js",
+		"/Users/jokkegoestasty/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/css/main.css",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/index.html",
+		"/Users/jokkegoestasty/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jokkegoestasty/Desktop/a.html",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/ember_hammer/index.html",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/ember_hammer/js/app.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/angular/directives.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/vendor/d3.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/styles/main.css",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/assets/base.css",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/assets/hammer.min.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/assets/base.js",
+		"/Users/jokkegoestasty/Documents/Development/angulartest/app/index.html",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/assets/require.min.js",
+		"/Users/jokkegoestasty/Downloads/addyosmani-todomvc-d41638c/labs/dependency-examples/angularjs_require/index.html",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/core.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/styles/norm.css",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/views/main.html",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/angular/controllers/main.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/angular/app.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/test.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/req.js",
+		"/Users/jokkegoestasty/Downloads/angular-requirejs-html5boilerplate-seed-master/app/index.html",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/googlemaps.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/async.js",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/async",
+		"/Users/jokkegoestasty/Documents/Development/projects/geotracking/assets/app/scripts/geo.js",
+		"/Users/jokkegoestasty/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/jokkegoestasty/Downloads/Tutorial-RequireJS-TheBasics-PartDeux-master/Scripts/app.js",
+		"/Users/jokkegoestasty/Downloads/Tutorial-RequireJS-TheBasics-PartDeux-master/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"width",
+			"map"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"scripts/angular/controllers/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
